@@ -39,11 +39,11 @@ print(AllTickers)
 optprint('signing client into reddit praw webscraper...')
 #reddit praw webscraper client info+
 reddit = praw.Reddit(
-    client_id = "iSHH4bVJ0Sfc0w",
-    client_secret="50eGJDUa1byzVF2AlLy-B0uDfMA2PQ",
-    password="Milford@13585",
-    user_agent="script by u/RubixRobber1",
-    username="RubixRobber1",
+    client_id = "EXAMPLE",
+    client_secret="EXAMPLE",
+    password="EXAMPLE",
+    user_agent="EXAMPLE",
+    username="EXAMPLE",
 )
 
 #authenticates I am the correct user**********************
